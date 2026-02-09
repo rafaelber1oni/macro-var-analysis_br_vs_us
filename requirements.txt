@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+python-bcb
+pandas-datareader
+requests
